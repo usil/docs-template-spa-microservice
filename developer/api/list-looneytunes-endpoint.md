@@ -9,6 +9,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
 
+<img src="https://i.ibb.co/rt0Hf3q/video.png" width="100">
+
 ---
 ## Authentication
 
